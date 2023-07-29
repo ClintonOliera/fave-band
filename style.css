@@ -44,6 +44,17 @@ ul.myul{
 
 .bio{
     display: grid;
-    grid-template-columns: min-content 1fr;
+    padding: 2rem;
+    grid-template-columns: 300px 1fr;
+    gap: 1rem;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: cursive ;
+}
+.bio img{
+        max-width: 100%;
+        height: auto;
+        border: 4px solid #555;
 }
 

@@ -1,0 +1,12 @@
+.intro h1{
+    text-align: center;
+    color: #FC2E20;
+    
+    
+}
+.pic img{
+    padding-left: 80px;
+    height: 480px;
+    width: 1000px;
+    align-items: center;
+}

@@ -23,3 +23,17 @@
     text-align: center;
     color: #FC2E20; 
 }
+.list {
+    text-align: center;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+ul.myul{
+    /* display: inline-block; */
+    list-style: none;
+    font-family: cursive;
+    padding-right: 80px;
+}

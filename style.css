@@ -41,17 +41,9 @@ ul.myul{
     text-align: center;
     color: #FC2E20;
 }
-/* #hp1  {
-    float: left;    
-     margin: 0 15px 0 0;
-    }
-     */
-.img-bio{
-    padding-left: 100px;
-}     
-.img-bio img{
-    border: 5px solid #555;
-    
-    
-    
+
+.bio{
+    display: grid;
+    grid-template-columns: min-content 1fr;
 }
+

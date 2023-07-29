@@ -10,3 +10,11 @@
     width: 1000px;
     align-items: center;
 }
+.about h2{
+    text-align: center;
+    color: #FC2E20;
+}
+.about p{
+    padding-left: 80px;
+    padding-right: 70px;
+}

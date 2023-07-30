@@ -5,9 +5,9 @@
     
 }
 .pic img{
-    padding-left: 80px;
+    padding-left: 50px;
     height: 480px;
-    width: 1000px;
+    width: 1120px;
     align-items: center;
 }
 .about h2{
@@ -45,16 +45,16 @@ ul.myul{
 .bio{
     display: grid;
     padding: 2rem;
-    grid-template-columns: 300px 1fr;
+    grid-template-columns: 200px 1fr;
     gap: 1rem;
     align-items: center;
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     font-family: cursive ;
 }
 .bio img{
         max-width: 100%;
         height: auto;
-        border: 4px solid #555;
+        border: 4px solid #FC2E20;
 }
 
